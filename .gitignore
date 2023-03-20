@@ -1,0 +1,16 @@
+# Ignore Gradle files
+.gradle/
+/build/
+
+# Ignore IntelliJ files
+.idea/
+
+# Ignore generated files
+target/
+bin/
+out/
+*.class
+
+# Ignore log files
+*.log
+logs/
