@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
   <name>spring_mvc_hibernate_connect_mysql_crud</name>
-  <url></url>
+  <url>https://github.com/nguyenhoangkhangithutech/springmvc_hibernate_mysql_crud_example.git</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
